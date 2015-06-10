@@ -1,0 +1,23 @@
+{
+  "name": "gulp-tsconfig-sample",
+  "version": "0.1.0",
+  "description": "Sample for the gulp-tsconfig gulp plugin.",
+  "license": "MIT",
+  "repository": "olohmann/gulp-tsconfig-sample",
+  "author": {
+    "name": "Oliver Lohmann",
+    "email": "olohmann@gmail.com",
+    "url": "http://www.oliver-lohmann.me/"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "gulp-tsconfig",
+    "sample"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-tsconfig": "^0.1.0"
+  }
+}

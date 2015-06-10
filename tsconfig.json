@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES3",
+        "removeComments": true,
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "out": "./dist/app.js"
+    },
+    "files": ["app/app.module.ts", "app/home/home.module.ts",
+        "app/widgets/widgets.module.ts", "app/home/home.controller.ts",
+        "app/widgets/my-widget.directive.ts"
+    ]
+}
